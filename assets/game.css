@@ -1,0 +1,72 @@
+.main
+{
+    background-image: url(./images/bg.png);
+}
+.btnst
+{
+    color: black;
+    background-color: violet;
+    width: auto;
+    height: 50px;
+    border-radius: 40px;
+    margin-top: 10%;
+    margin-left: 10%;
+    font-family: 'Black Ops One', cursive;
+    
+}
+.scorebox
+{
+    background-color: violet;
+    min-width: 110px;
+    min-height: 50px;
+    border-radius: 40px;
+    display: flex;
+    justify-content: center;
+    margin-top: 15%;
+    margin-left: 50%;
+    margin-right: 15%;
+}
+.score
+{
+    padding-top: 10%;
+    text-align: center;
+    font-family: 'Black Ops One', cursive;
+    font-size: auto ;
+    
+}
+.flagst
+{
+    width:30%;
+    height: 20%;
+    margin-left: 34%;
+}
+.title
+{
+    margin-top: 4%;
+    font-size: 50px;
+    margin-left: 2%;
+    font-family: 'Black Ops One', cursive;
+    color: violet;
+}
+.inputst
+{
+    border-color: violet;
+    border-width: 6px;
+    display: flex;
+    margin-left: 34%;
+    margin-top: 3%;
+    width: 30%;
+    height: 30%;
+}
+.buttonst
+{
+    color: black;
+    background-color: violet;
+    width: 100px;
+    height: 50px;
+    border-radius: 40px;
+    margin-left: 45%;
+    margin-top: 1%;
+    font-family: 'Black Ops One', cursive;
+
+}
